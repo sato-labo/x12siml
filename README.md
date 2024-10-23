@@ -1,4 +1,4 @@
-# SarSIML (formerly "X12siml")
+# SarSIML (S-SIML, formerly "X12siml")
 a seasonal adjustment program for R by SIML method
 
 + \> source("sarsiml_ver1.1.R")
